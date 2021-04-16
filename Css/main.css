@@ -41,8 +41,7 @@ flex-direction: row;
 justify-content: space-around;
 text-align: center;
 font-size: 16px;
-padding-bottom: 10px;  /* to give some space to text and image group */
-padding-top: 10px;
+padding: 20px;
 }
 
 #image2Con{
@@ -55,8 +54,7 @@ flex-direction: row;
 justify-content: space-around;
 text-align: center;
 font-size: 16px;
-padding-bottom: 10px; /* to give some space to text and image group */
-padding-top: 10px;
+padding: 20px;
 }
 
 #image3Con{
@@ -69,6 +67,5 @@ flex-direction: row;
 justify-content: space-around;
 text-align: center;
 font-size: 16px;
-padding-bottom: 10px;  /* to give some space to text and image group */
-padding-top: 10px;
+padding: 20px;
 }
