@@ -2,7 +2,7 @@
 Data-Visualization-with-Python
 
 # Project Description:
-One-page website iclude graphs and charts.
+1-page website iclude graphs and charts.
 
 # What is inside in this project?
 To create 1-page website with graphs, html5, css, python and matplotlib library and other libraries are used.
