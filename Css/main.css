@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+/*html selectors*/
+
+body {
+font-family: open sans, Arial, sans-serif;
+font-size: 16px;
+color: #fff;
+background-color: #ccc;
+}
+h1,h2,h3,h4{
+text-align: center;
+}
+
+/*hide elements from browser but show for doc outline*/
+.hidden{
+display: none;
+}
+
+#siteContainer{
+margin: 0 auto;
+width: 960px;
+padding-left: 50px;
+padding-right: 50px;
+background-color: #355c7d;
+}
+
+#mainCon{
+display: flex;
+flex-direction: column;
+align-content: space-around;
+}
+
+#image1Con{
+background-color: #c06c84;
+border-radius: 10px;
+height: 365px;
+margin-bottom: 40px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+text-align: center;
+font-size: 16px;
+padding-bottom: 10px;  /* to give some space to text and image group */
+padding-top: 10px;
+}
+
+#image2Con{
+background-color:#f67280;
+border-radius: 10px;
+height: 365px;
+margin-bottom: 40px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+text-align: center;
+font-size: 16px;
+padding-bottom: 10px; /* to give some space to text and image group */
+padding-top: 10px;
+}
+
+#image3Con{
+background-color: #f8b195;
+border-radius: 10px;
+height: 365px;
+margin-bottom: 30px;
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+text-align: center;
+font-size: 16px;
+padding-bottom: 10px;  /* to give some space to text and image group */
+padding-top: 10px;
+}
